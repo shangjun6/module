@@ -1,0 +1,5 @@
+1.采用模块化的开发模式
+2.采用组件式写法，方便操作
+3.利用 json 文件来传输数据
+4.利用的插件：zepto   underscore    懒加载   rem适配   touch
+5.github 上传操作
